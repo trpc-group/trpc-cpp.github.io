@@ -154,5 +154,4 @@ var menudata={children:[
 {text:"Enumerations",url:"functions_enum.html"},
 {text:"Enumerator",url:"functions_eval.html"}]}]},
 {text:"Files",url:"files.html",children:[
-{text:"File List",url:"files.html"}]},
-{text:"Examples",url:"examples.html"}]}
+{text:"File List",url:"files.html"}]}]}
